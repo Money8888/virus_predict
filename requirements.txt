@@ -1,4 +1,4 @@
-scipy==1.4.1
+scipy==1.10.0
 numpy==1.18.1
 Keras==2.3.1
 matplotlib==2.2.2
